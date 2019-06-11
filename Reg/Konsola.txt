@@ -1,0 +1,54 @@
+Hasla poprawne: 4
+Hasla zle: 5
+Loginy poprawne: 9
+Loginy zle: 10
+Ilosc odczytanych kodow: 26
+62-262
+07-300
+08-530
+13-100
+18-400
+21-040
+22-200
+27-300
+32-020
+33-100
+37-500
+37-700
+39-100
+41-940
+42-500
+47-200
+41-500
+38-200
+36-200
+34-300
+32-020
+26-700
+22-400
+18-100
+14-200
+11-300
+in vino veritas in aqua sanitas
+Ilosc slow: 20
+Slowa:
+Studenci
+to
+specyficzna
+grupa
+mlodych
+pojawiajaca
+sie
+szczegolnie
+w
+wiekszych
+miastach.
+Paliwem
+potrzebnym
+do
+dzialania
+organizmu
+studenta
+jest
+alkohol
+etylowy.
